@@ -1,0 +1,13 @@
+premiere ligne:
+
+nombre au debut, pas de negatif. 
+3 derniers caracteres sont IMPRIMABLES et ne peuvent pas etre LES MEMES
+
+check toute la map, 
+\n obligatoire a la fin de la ligne, 
+toutes les lignes ont la meme longueurs
+check des trois caracteres possible dans toute la map
+check 2 premiers (vides et obstacles) pas de PLEINS.
+check nombres de lignes.
+
+si faux -> "map error\n"
